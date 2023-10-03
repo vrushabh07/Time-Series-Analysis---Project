@@ -4,3 +4,4 @@ This is time series analyst project for six different correlated data.
 - Able to assess stationarity and cointegration in time series data, distinguished between stationary and non-stationary processes
 - Conducted Granger causality tests to uncover causal relationships within time series data, supporting data-driven decision-making.
 - Proficient in modeling cointegrated time series data using Vector Error Correction Models (VECM), performing Johansen cointegration tests, and dynamic forecasting.
+- Demonstrated the ability to extract valuable insights and make data-driven decisions through rigorous time series analysis.
